@@ -9,5 +9,5 @@ I developed a text disappearing app using Python and Tkinter. The app allows use
 ![Disappearing_text_3](https://user-images.githubusercontent.com/44795737/211883664-d1b15d8e-ee40-4f43-8c1b-bf08d5e35d94.jpg)
 
 
-https://user-images.githubusercontent.com/44795737/211883669-4fff8532-9386-4757-816b-dea9e0ff2313.mp4
+
 
